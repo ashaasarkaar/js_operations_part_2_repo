@@ -14,3 +14,6 @@ const azaan = 47;
 const afifaa = 99;
 const maxResult = maxNumber(salaat, azaan, afifaa)
 console.log(maxResult)
+
+const max = Math.max(25, 79, 909, 56, 47)
+console.log(max)
